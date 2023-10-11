@@ -1,16 +1,15 @@
-### Hi there 👋
+# Bem-vindo!
 
-<!--
-**LucasPMLG/LucasPMLG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
 
-Here are some ideas to get you started:
+## Eu sou Lucas!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+
+:computer: Estou cursando S.I, segundo período
+
+:house_with_garden: Moro no Brazsil.
+
+:books: Estou estudando C/C++, Desenvolvimento web, falhas de segurança, pentest, hacking.
+
+:outbox_tray: Meu objetivo é trabalhar na segurança de empresas, dando a elas um ambiente seguro e com o menor número de vulnerabilidades possível.
