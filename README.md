@@ -8,7 +8,7 @@
 
 :computer: Estou cursando S.I, segundo período
 
-:house_with_garden: Moro no Brazsil.
+:house_with_garden: Moro no Brasil.
 
 :books: Estou estudando C/C++, Desenvolvimento web, falhas de segurança, pentest, hacking.
 
