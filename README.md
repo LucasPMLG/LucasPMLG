@@ -1,4 +1,4 @@
-<h2 align="left">👨‍💻  Lucas Maranhão<br><br>Olá! Meu nome é Lucas Maranhão, sou um jovem desenvolvedor apaixonado por tecnologia e inovação. Desde cedo, descobri na programação uma forma de transformar ideias em soluções reais, e foi através dessa jornada que encontrei meu verdadeiro interesse: a Cibersegurança.<br><br>Atualmente, estou me aprofundando no mundo da segurança digital, estudando técnicas, ferramentas e práticas voltadas à proteção de sistemas, dados e redes. Acredito que, em um mundo cada vez mais conectado, garantir a segurança da informação é uma das responsabilidades mais importantes e estratégicas na área da tecnologia.</h2>
+<h2 align="left">👨‍💻  Lucas Maranhão<br><br>Olá! Meu nome é Lucas Maranhão, sou um jovem amante da tecnologia e da Cibersegurança.<br><br>Atualmente, estou me aprofundando no mundo da segurança digital, estudando técnicas, ferramentas e práticas voltadas à proteção de sistemas, dados e redes. Em um mundo cada vez mais conectado, garantir a segurança da informação é uma das responsabilidades mais importantes e estratégicas na área da tecnologia.</h2>
 
 ###
 
